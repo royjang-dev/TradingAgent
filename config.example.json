@@ -1,0 +1,49 @@
+{
+  "selected_symbols": ["BTCUSDT", "ETHUSDT"],
+  "use_two_way_trading": true,
+  "mean_revert_enabled": true,
+  "breakout_enabled": true,
+  "uprich_agrt_enabled": true,
+  "execution_mode": "paper",
+  "execution_enabled": false,
+  "rsi_gated_short_enabled": true,
+  "rsi_gate_length": 14,
+  "rsi_gate_smooth": 14,
+  "rsi_gate_arm_cycles": 12,
+  "log_path": "logs",
+  "risk_guards": { "enabled": false, "position_max_loss_roe": 0.0, "daily_loss_limit_usdt": 0.0, "daily_loss_action": "halt" },
+  "mean_revert_target": {
+    "target_name": "MeanRevert",
+    "short_usdt": 58.2, "long_usdt": 58.2, "short_leverage": 30, "long_leverage": 30,
+    "short_use_1h": true, "short_use_4h": true, "long_use_1h": true, "long_use_4h": true,
+    "volatility_1h": 12.0, "volatility_4h": 28.0,
+    "min_profit": 1, "trailing_stop": 5, "stop_loss": 3,
+    "trailing_stop_use": true, "profit_use": false, "stop_loss_use": false,
+    "short_split_cnt": 1, "short_split_gap": 30.0, "short_auto_input_ctrl": 300.0,
+    "split_squared_enabled": true, "split_interval_multiplier": 6.0, "split_multiplier_start_at": 1,
+    "funding_fee_check_enabled": true
+  },
+  "breakout_target": {
+    "target_name": "Breakout",
+    "short_usdt": 58.2, "short_leverage": 30,
+    "use_1h": true, "use_4h": true, "use_1d": true,
+    "volatility_1h": 10.0, "volatility_4h": 18.0, "volatility_1d": 30.0,
+    "long_open_skip": true,
+    "min_profit": 1, "trailing_stop": 5, "stop_loss": 10.5,
+    "trailing_stop_use": true, "profit_use": false, "stop_loss_use": false,
+    "short_split_cnt": 1, "short_split_gap": 30.0,
+    "split_squared_enabled": true, "split_interval_multiplier": 6.0, "split_multiplier_start_at": 1
+  },
+  "uprich_agrt_target": {
+    "target_name": "UprichAgrt",
+    "short_usdt": 58.2, "long_usdt": 58.2, "short_leverage": 30, "long_leverage": 30,
+    "short_use_1h": true, "short_use_4h": true, "long_use_1h": true, "long_use_4h": true,
+    "short_volatility_1h": 8.2, "short_volatility_4h": 20.0,
+    "long_volatility_1h": 8.7, "long_volatility_4h": 20.0,
+    "profit": 3, "min_profit": 1, "trailing_stop": 5, "stop_loss": 10.5,
+    "trailing_stop_use": true, "profit_use": false, "stop_loss_use": false,
+    "short_split_cnt": 1, "short_split_gap": 30.0, "short_auto_input_ctrl": 300.0,
+    "split_squared_enabled": true, "split_interval_multiplier": 6.0, "split_multiplier_start_at": 1,
+    "funding_fee_check_enabled": true
+  }
+}

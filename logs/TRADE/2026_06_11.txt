@@ -1,0 +1,37 @@
+[2026-06-11 21:38:18] 매매 감지: HUSDT short 1h (MeanRevert)
+[2026-06-11 21:38:18] HUSDT short 진입 0.18153 (9497.905673720285개) 이탈율=55.26%
+[2026-06-11 21:38:18] 포지션 등록: HUSDT short 0.18153
+[2026-06-11 21:38:18] 체결 확인: HUSDT short 0.18153 (MeanRevert)
+[2026-06-11 21:38:18] 매매 감지: BEATUSDT short 4h (UprichAgrt)
+[2026-06-11 21:38:19] BEATUSDT short 진입 8.9731 (195.0312820793507개) 이탈율=60.47%
+[2026-06-11 21:38:19] 포지션 등록: BEATUSDT short 8.9731
+[2026-06-11 21:38:19] 체결 확인: BEATUSDT short 8.9731 (UprichAgrt)
+[2026-06-11 22:21:46] 매매 감지: BANANAS31USDT long 1h (UprichAgrt)
+[2026-06-11 22:21:46] BANANAS31USDT long 진입 0.009207 (189000개) 이탈율=8.93%
+[2026-06-11 22:21:46] 포지션 등록: BANANAS31USDT long 0.009207 (189000개)
+[2026-06-11 22:21:46] 체결 확인: BANANAS31USDT long 0.009207 (UprichAgrt)
+[2026-06-11 22:28:55] 매매 감지: EPICUSDT short 4h (Breakout)
+[2026-06-11 22:28:55] EPICUSDT short 진입 0.6455 (2709개) 이탈율=25.36%
+[2026-06-11 22:28:55] 포지션 등록: EPICUSDT short 0.6455 (2709개)
+[2026-06-11 22:28:55] 체결 확인: EPICUSDT short 0.6455 (Breakout)
+[2026-06-11 23:05:22] 매매 감지: SOXSUSDT long 1h (MeanRevert)
+[2026-06-11 23:05:22] SOXSUSDT long 진입 5.55 (316.3개) 이탈율=12.11%
+[2026-06-11 23:05:22] 포지션 등록: SOXSUSDT long 5.55 (316.3개)
+[2026-06-11 23:05:22] 체결 확인: SOXSUSDT long 5.55 (MeanRevert)
+[2026-06-11 23:23:34] SOXSUSDT long 청산 5.63 [TrailingStop]
+[2026-06-11 23:23:34] 거래 기록: SOXSUSDT long 수익률 43.24% / 25.30 USDT
+[2026-06-11 23:23:34] 청산 완료: SOXSUSDT long
+[2026-06-11 23:34:37] HUSDT short 청산 0.16599 [TrailingStop]
+[2026-06-11 23:34:37] 거래 기록: HUSDT short 수익률 256.82% / 147.60 USDT
+[2026-06-11 23:34:37] 청산 완료: HUSDT short
+[2026-06-11 23:34:37] 매매 감지: FIDAUSDT short 1h (MeanRevert)
+[2026-06-11 23:34:38] FIDAUSDT short 진입 0.025575 (68155개) 이탈율=17.71%
+[2026-06-11 23:34:38] 포지션 등록: FIDAUSDT short 0.025575 (68155개)
+[2026-06-11 23:34:38] 체결 확인: FIDAUSDT short 0.025575 (MeanRevert)
+[2026-06-11 23:43:27] BANANAS31USDT long 청산 0.008998 [TrailingStop]
+[2026-06-11 23:43:27] 거래 기록: BANANAS31USDT long 수익률 -68.10% / -39.50 USDT
+[2026-06-11 23:43:27] 청산 완료: BANANAS31USDT long
+[2026-06-11 23:43:27] 매매 감지: BANANAS31USDT long 1h (UprichAgrt)
+[2026-06-11 23:43:27] BANANAS31USDT long 진입 0.008998 (193000개) 이탈율=10.49%
+[2026-06-11 23:43:27] 포지션 등록: BANANAS31USDT long 0.008998 (193000개)
+[2026-06-11 23:43:27] 체결 확인: BANANAS31USDT long 0.008998 (UprichAgrt)

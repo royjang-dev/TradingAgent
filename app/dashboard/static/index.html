@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>uprich-bot</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3/dist/tabler-icons.min.css" />
+<link rel="stylesheet" href="/static/styles.css" />
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+<div class="app">
+  <aside class="side">
+    <div class="nav on" data-view="dashboard"><i class="ti ti-layout-dashboard" aria-hidden="true"></i>대시보드</div>
+    <div class="nav" data-view="positions"><i class="ti ti-chart-bar" aria-hidden="true"></i>포지션</div>
+    <div class="nav" data-view="symbols"><i class="ti ti-coin" aria-hidden="true"></i>심볼</div>
+    <div class="nav" data-view="records"><i class="ti ti-history" aria-hidden="true"></i>거래 기록</div>
+    <div class="nav" data-view="settings"><i class="ti ti-settings" aria-hidden="true"></i>설정</div>
+    <div class="nav" data-view="logs"><i class="ti ti-list" aria-hidden="true"></i>로그</div>
+    <div class="stop go" id="startstop">START</div>
+  </aside>
+  <main class="main">
+    <section id="dashboard">
+      <div class="title">대시보드 <span class="pill" id="modepill">paper</span>
+        <span class="muted" id="conn" style="margin-left:auto;font-size:11px"></span></div>
+      <div class="kpis" id="kpis"></div>
+      <div class="panel chartpanel"><h3>일별 수익 차트</h3><div class="chartwrap"><canvas id="daily"></canvas></div></div>
+      <div class="panel marketpanel"><h3>시장 흐름</h3><div class="mgrid" id="mtop"></div><div class="mgrid bot" id="mbot"></div></div>
+    </section>
+    <section id="positions" class="hide">
+      <div class="title">포지션 <span class="pill" id="margin"></span></div>
+      <div class="panel"><table id="postable"></table></div>
+    </section>
+    <section id="symbols" class="hide">
+      <div class="title">심볼 <span class="muted" id="symcount" style="font-size:12px"></span></div>
+      <div class="panel" id="symlist"></div>
+    </section>
+    <section id="records" class="hide">
+      <div class="title">거래 기록 <span style="font-size:11px;color:#5b8def;cursor:pointer" onclick="renderRecords()">새로고침</span></div>
+      <div class="kpis" id="reckpis"></div>
+      <div class="panel">
+        <div id="rechead" style="display:flex;align-items:center;gap:8px;font-size:12px;color:#cdd0d8;margin-bottom:10px"></div>
+        <table id="rectable"></table>
+      </div>
+    </section>
+    <section id="settings" class="hide">
+      <div class="title">설정 <span class="muted" style="font-size:11px">(read-only — edit config.json)</span></div>
+      <div class="panel" id="setbody"></div>
+    </section>
+    <section id="logs" class="hide">
+      <div class="title">로그 <span class="muted" id="logcount" style="font-size:12px"></span></div>
+      <div class="panel"><table id="logtable"></table></div>
+    </section>
+  </main>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

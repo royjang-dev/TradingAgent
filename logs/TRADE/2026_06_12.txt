@@ -1,0 +1,108 @@
+[2026-06-12 00:20:55] FIDAUSDT short 청산 0.026137 [TrailingStop]
+[2026-06-12 00:20:55] 거래 기록: FIDAUSDT short 수익률 -65.92% / -38.30 USDT
+[2026-06-12 00:20:55] 청산 완료: FIDAUSDT short
+[2026-06-12 00:20:55] 매매 감지: IDUSDT short 4h (MeanRevert)
+[2026-06-12 00:20:55] IDUSDT short 진입 0.03488 (50259.1개) 이탈율=29.42%
+[2026-06-12 00:20:55] 포지션 등록: IDUSDT short 0.03488 (50259.1개)
+[2026-06-12 00:20:55] 체결 확인: IDUSDT short 0.03488 (MeanRevert)
+[2026-06-12 00:41:57] BANANAS31USDT long 청산 0.008837 [TrailingStop]
+[2026-06-12 00:41:57] 거래 기록: BANANAS31USDT long 수익률 -53.68% / -31.07 USDT
+[2026-06-12 00:41:57] 청산 완료: BANANAS31USDT long
+[2026-06-12 00:41:57] 매매 감지: BANANAS31USDT long 1h (UprichAgrt)
+[2026-06-12 00:41:57] BANANAS31USDT long 진입 0.008837 (198000개) 이탈율=12.00%
+[2026-06-12 00:41:57] 포지션 등록: BANANAS31USDT long 0.008837 (198000개)
+[2026-06-12 00:41:57] 체결 확인: BANANAS31USDT long 0.008837 (UprichAgrt)
+[2026-06-12 02:33:57] IDUSDT short 청산 0.03507 [TrailingStop]
+[2026-06-12 02:33:57] 거래 기록: IDUSDT short 수익률 -16.34% / -9.55 USDT
+[2026-06-12 02:33:57] 청산 완료: IDUSDT short
+[2026-06-12 02:33:57] 매매 감지: SPIRUSDT short 1h (MeanRevert)
+[2026-06-12 02:33:57] SPIRUSDT short 진입 19.081 (91.5개) 이탈율=12.20%
+[2026-06-12 02:33:57] 포지션 등록: SPIRUSDT short 19.081 (91.5개)
+[2026-06-12 02:33:57] 체결 확인: SPIRUSDT short 19.081 (MeanRevert)
+[2026-06-12 02:34:30] 매매 감지: SOXSUSDT long 1h (MeanRevert)
+[2026-06-12 02:34:31] SOXSUSDT long 진입 5.44 (321.54개) 이탈율=12.01%
+[2026-06-12 02:34:31] 포지션 등록: SOXSUSDT long 5.44 (321.54개)
+[2026-06-12 02:34:31] 체결 확인: SOXSUSDT long 5.44 (MeanRevert)
+[2026-06-12 02:44:27] SOXSUSDT long 청산 5.37 [TrailingStop]
+[2026-06-12 02:44:27] 거래 기록: SOXSUSDT long 수익률 -38.60% / -22.51 USDT
+[2026-06-12 02:44:27] 청산 완료: SOXSUSDT long
+[2026-06-12 02:44:27] 매매 감지: SOXSUSDT long 1h (MeanRevert)
+[2026-06-12 02:44:27] SOXSUSDT long 진입 5.37 (324.53개) 이탈율=12.78%
+[2026-06-12 02:44:27] 포지션 등록: SOXSUSDT long 5.37 (324.53개)
+[2026-06-12 02:44:27] 체결 확인: SOXSUSDT long 5.37 (MeanRevert)
+[2026-06-12 03:22:37] 매매 감지: SPIRUSDT short 1h (UprichAgrt)
+[2026-06-12 03:22:37] SPIRUSDT short 진입 19.124 (90.97개) 이탈율=11.92%
+[2026-06-12 03:22:37] 포지션 등록: SPIRUSDT short 19.124 (90.97개)
+[2026-06-12 03:22:37] 체결 확인: SPIRUSDT short 19.124 (UprichAgrt)
+[2026-06-12 03:22:37] 매매 감지: SOXSUSDT long 1h (UprichAgrt)
+[2026-06-12 03:22:37] SOXSUSDT long 진입 5.48 (322.14개) 이탈율=11.15%
+[2026-06-12 03:22:37] 포지션 등록: SOXSUSDT long 5.48 (322.14개)
+[2026-06-12 03:22:37] 체결 확인: SOXSUSDT long 5.48 (UprichAgrt)
+[2026-06-12 03:22:37] 매매 감지: EPICUSDT short 4h (MeanRevert)
+[2026-06-12 03:22:38] EPICUSDT short 진입 0.6881 (2561.6개) 이탈율=30.08%
+[2026-06-12 03:22:38] 포지션 등록: EPICUSDT short 0.6881 (2561.6개)
+[2026-06-12 03:22:38] 체결 확인: EPICUSDT short 0.6881 (MeanRevert)
+[2026-06-12 03:26:31] 매매 감지: ESPORTSUSDT short 4h (Breakout)
+[2026-06-12 03:26:31] ESPORTSUSDT short 진입 0.17551 (9813개) 이탈율=91.94%
+[2026-06-12 03:26:31] 포지션 등록: ESPORTSUSDT short 0.17551 (9813개)
+[2026-06-12 03:26:31] 체결 확인: ESPORTSUSDT short 0.17551 (Breakout)
+[2026-06-12 05:38:26] 매매 감지: HOMEUSDT long 1h (MeanRevert)
+[2026-06-12 05:38:26] HOMEUSDT long 진입 0.02943 (59428개) 이탈율=12.42%
+[2026-06-12 05:38:26] 포지션 등록: HOMEUSDT long 0.02943 (59428개)
+[2026-06-12 05:38:26] 체결 확인: HOMEUSDT long 0.02943 (MeanRevert)
+[2026-06-12 08:05:10] EPICUSDT short 청산 0.652 [TrailingStop]
+[2026-06-12 08:05:10] 거래 기록: EPICUSDT short 수익률 157.39% / 92.47 USDT
+[2026-06-12 08:05:10] 청산 완료: EPICUSDT short
+[2026-06-12 08:05:10] 매매 감지: UBUSDT short 1h (MeanRevert)
+[2026-06-12 08:05:10] UBUSDT short 진입 0.14893 (11722개) 이탈율=15.67%
+[2026-06-12 08:05:10] 포지션 등록: UBUSDT short 0.14893 (11722개)
+[2026-06-12 08:05:10] 체결 확인: UBUSDT short 0.14893 (MeanRevert)
+[2026-06-12 09:06:57] UBUSDT short 청산 0.14779 [TrailingStop]
+[2026-06-12 09:06:57] 거래 기록: UBUSDT short 수익률 22.96% / 13.36 USDT
+[2026-06-12 09:06:57] 청산 완료: UBUSDT short
+[2026-06-12 09:06:57] 매매 감지: XPLUSDT short 1h (MeanRevert)
+[2026-06-12 09:06:57] XPLUSDT short 진입 0.07626 (22973개) 이탈율=13.67%
+[2026-06-12 09:06:57] 포지션 등록: XPLUSDT short 0.07626 (22973개)
+[2026-06-12 09:06:57] 체결 확인: XPLUSDT short 0.07626 (MeanRevert)
+[2026-06-12 11:01:43] ESPORTSUSDT short 청산 0.17783 [TrailingStop]
+[2026-06-12 11:01:43] 거래 기록: ESPORTSUSDT short 수익률 -39.66% / -22.77 USDT
+[2026-06-12 11:01:43] 청산 완료: ESPORTSUSDT short
+[2026-06-12 11:07:48] 매매 감지: XMRUSDT short 4h (Breakout)
+[2026-06-12 11:07:48] XMRUSDT short 진입 417.92 (4.17개) 이탈율=24.74%
+[2026-06-12 11:07:48] 포지션 등록: XMRUSDT short 417.92 (4.17개)
+[2026-06-12 11:07:48] 체결 확인: XMRUSDT short 417.92 (Breakout)
+[2026-06-12 12:02:32] XMRUSDT short 청산 388.16 [TrailingStop]
+[2026-06-12 12:02:32] 거래 기록: XMRUSDT short 수익률 213.63% / 124.10 USDT
+[2026-06-12 12:02:32] 청산 완료: XMRUSDT short
+[2026-06-12 12:02:32] 매매 감지: CATIUSDT short 4h (Breakout)
+[2026-06-12 12:02:32] CATIUSDT short 진입 0.05945 (29428개) 이탈율=19.36%
+[2026-06-12 12:02:32] 포지션 등록: CATIUSDT short 0.05945 (29428개)
+[2026-06-12 12:02:32] 체결 확인: CATIUSDT short 0.05945 (Breakout)
+[2026-06-12 14:45:40] CATIUSDT short 청산 0.05909 [TrailingStop]
+[2026-06-12 14:45:40] 거래 기록: CATIUSDT short 수익률 18.17% / 10.59 USDT
+[2026-06-12 14:45:40] 청산 완료: CATIUSDT short
+[2026-06-12 14:46:19] 매매 감지: NAORISUSDT short 4h (Breakout)
+[2026-06-12 14:46:20] NAORISUSDT short 진입 0.04608 (38163개) 이탈율=35.04%
+[2026-06-12 14:46:20] 포지션 등록: NAORISUSDT short 0.04608 (38163개)
+[2026-06-12 14:46:20] 체결 확인: NAORISUSDT short 0.04608 (Breakout)
+[2026-06-12 15:12:46] NAORISUSDT short 청산 0.04629 [TrailingStop]
+[2026-06-12 15:12:46] 거래 기록: NAORISUSDT short 수익률 -13.67% / -8.01 USDT
+[2026-06-12 15:12:46] 청산 완료: NAORISUSDT short
+[2026-06-12 15:12:46] 매매 감지: NAORISUSDT short 4h (Breakout)
+[2026-06-12 15:12:46] NAORISUSDT short 진입 0.04629 (37767개) 이탈율=36.42%
+[2026-06-12 15:12:46] 포지션 등록: NAORISUSDT short 0.04629 (37767개)
+[2026-06-12 15:12:46] 체결 확인: NAORISUSDT short 0.04629 (Breakout)
+[2026-06-12 17:04:32] HOMEUSDT long 청산 0.0294 [TrailingStop]
+[2026-06-12 17:04:32] 거래 기록: HOMEUSDT long 수익률 -3.06% / -1.78 USDT
+[2026-06-12 17:04:32] 청산 완료: HOMEUSDT long
+[2026-06-12 17:12:23] 매매 감지: AIOUSDT long 1h (MeanRevert)
+[2026-06-12 17:12:23] AIOUSDT long 진입 0.16405 (10618개) 이탈율=14.67%
+[2026-06-12 17:12:23] 포지션 등록: AIOUSDT long 0.16405 (10618개)
+[2026-06-12 17:12:23] 체결 확인: AIOUSDT long 0.16405 (MeanRevert)
+[2026-06-12 17:56:01] AIOUSDT long 청산 0.17186 [TrailingStop]
+[2026-06-12 17:56:01] 거래 기록: AIOUSDT long 수익률 142.82% / 82.93 USDT
+[2026-06-12 17:56:01] 청산 완료: AIOUSDT long
+[2026-06-12 18:25:28] 매매 감지: AIOUSDT long 1h (MeanRevert)
+[2026-06-12 18:25:28] AIOUSDT long 진입 0.1588 (11071개) 이탈율=17.78%
+[2026-06-12 18:25:28] 포지션 등록: AIOUSDT long 0.1588 (11071개)
+[2026-06-12 18:25:28] 체결 확인: AIOUSDT long 0.1588 (MeanRevert)

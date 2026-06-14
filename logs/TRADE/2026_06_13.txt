@@ -1,0 +1,42 @@
+[2026-06-13 01:34:26] SPIRUSDT short 청산 18.06 [TrailingStop]
+[2026-06-13 01:34:26] 거래 기록: SPIRUSDT short 수익률 166.91% / 96.79 USDT
+[2026-06-13 01:34:26] 청산 완료: SPIRUSDT short
+[2026-06-13 01:34:26] 매매 감지: COAIUSDT short 4h (UprichAgrt)
+[2026-06-13 01:34:26] COAIUSDT short 진입 0.3647 (4792개) 이탈율=36.39%
+[2026-06-13 01:34:26] 포지션 등록: COAIUSDT short 0.3647 (4792개)
+[2026-06-13 01:34:26] 체결 확인: COAIUSDT short 0.3647 (UprichAgrt)
+[2026-06-13 03:21:40] COAIUSDT short 청산 0.3513 [TrailingStop]
+[2026-06-13 03:21:40] 거래 기록: COAIUSDT short 수익률 110.23% / 64.21 USDT
+[2026-06-13 03:21:40] 청산 완료: COAIUSDT short
+[2026-06-13 03:21:40] 매매 감지: 1MCHEEMSUSDT short 1h (UprichAgrt)
+[2026-06-13 03:21:40] 1MCHEEMSUSDT short 진입 0.6125 (2850개) 이탈율=9.54%
+[2026-06-13 03:21:40] 포지션 등록: 1MCHEEMSUSDT short 0.6125 (2850개)
+[2026-06-13 03:21:40] 체결 확인: 1MCHEEMSUSDT short 0.6125 (UprichAgrt)
+[2026-06-13 03:51:02] NAORISUSDT short 청산 0.04446 [TrailingStop]
+[2026-06-13 03:51:02] 거래 기록: NAORISUSDT short 수익률 118.60% / 69.11 USDT
+[2026-06-13 03:51:02] 청산 완료: NAORISUSDT short
+[2026-06-13 03:53:43] 매매 감지: KIOXIAUSDT short 1h (Breakout)
+[2026-06-13 03:53:43] KIOXIAUSDT short 진입 621.08 (2.8개) 이탈율=17.58%
+[2026-06-13 03:53:43] 포지션 등록: KIOXIAUSDT short 621.08 (2.8개)
+[2026-06-13 03:53:43] 체결 확인: KIOXIAUSDT short 621.08 (Breakout)
+[2026-06-13 09:10:42] KIOXIAUSDT short 청산 604.33 [TrailingStop]
+[2026-06-13 09:10:42] 거래 기록: KIOXIAUSDT short 수익률 80.91% / 46.90 USDT
+[2026-06-13 09:10:43] 청산 완료: KIOXIAUSDT short
+[2026-06-13 09:14:34] 매매 감지: ATUSDT short 1d (Breakout)
+[2026-06-13 09:14:34] ATUSDT short 진입 0.1615 (10797개) 이탈율=30.38%
+[2026-06-13 09:14:34] 포지션 등록: ATUSDT short 0.1615 (10797개)
+[2026-06-13 09:14:34] 체결 확인: ATUSDT short 0.1615 (Breakout)
+[2026-06-13 09:59:20] ATUSDT short 청산 0.1536 [TrailingStop]
+[2026-06-13 09:59:20] 거래 기록: ATUSDT short 수익률 146.75% / 85.30 USDT
+[2026-06-13 09:59:20] 청산 완료: ATUSDT short
+[2026-06-13 09:59:20] 매매 감지: NOTUSDT short 1h (Breakout)
+[2026-06-13 09:59:20] NOTUSDT short 진입 0.0004796 (3.63295e+06개) 이탈율=11.09%
+[2026-06-13 09:59:20] 포지션 등록: NOTUSDT short 0.0004796 (3.63295e+06개)
+[2026-06-13 09:59:20] 체결 확인: NOTUSDT short 0.0004796 (Breakout)
+[2026-06-13 13:22:17] NOTUSDT short 청산 0.0004801 [TrailingStop]
+[2026-06-13 13:22:17] 거래 기록: NOTUSDT short 수익률 -3.13% / -1.82 USDT
+[2026-06-13 13:22:17] 청산 완료: NOTUSDT short
+[2026-06-13 14:05:25] 매매 감지: SKYAIUSDT short 4h (Breakout)
+[2026-06-13 14:05:25] SKYAIUSDT short 진입 0.3264 (5340개) 이탈율=36.71%
+[2026-06-13 14:05:25] 포지션 등록: SKYAIUSDT short 0.3264 (5340개)
+[2026-06-13 14:05:25] 체결 확인: SKYAIUSDT short 0.3264 (Breakout)
